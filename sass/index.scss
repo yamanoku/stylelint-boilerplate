@@ -1,0 +1,28 @@
+body {
+  background-color :#FFF;
+}
+
+footer {
+  background: ('img/background.jpg') no-repeat;
+}
+
+
+.a
+, .b { color: pink; }
+
+.scale { -webkit-transform: scale(1); }
+
+.number { top: 0.5000px; }
+
+.bg { background: linear-gradient(top, #fff, #000); }
+
+.important {
+  color: #999 !important;
+}
+
+.overrides {
+  top: 1px;
+  top: 2px;
+}
+
+.empty {}
