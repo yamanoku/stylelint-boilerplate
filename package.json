@@ -1,22 +1,24 @@
 {
   "name": "stylelint-boilerplate",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "gulpfile.js",
   "license": "MIT",
+  "author": "yamanoku <0910yama@gmail.com>",
   "scripts": {
     "dev": "gulp",
-    "lintStyles": "gulp lintStyles"
+    "lint-styles": "gulp lint-styles"
   },
   "devDependencies": {
-    "@geekcojp/csscomb-config": "^0.1.5",
-    "@geekcojp/stylelint-config": "^0.1.6",
-    "gulp": "^3.9.1",
-    "gulp-csscomb": "^3.0.8",
+    "@geekcojp/stylelint-config": "^0.2.0",
+    "gulp": "^4.0.0",
     "gulp-load-plugins": "^1.5.0",
-    "gulp-plumber": "^1.2.0",
-    "gulp-postcss": "^7.0.1",
-    "gulp-sass": "^3.1.0",
-    "postcss-reporter": "^5.0.0",
-    "stylelint": "^8.4.0"
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylelint": "^8.0.0",
+    "postcss-reporter": "^6.0.0",
+    "postcss-scss": "^2.0.0",
+    "stylelint": "^9.9.0",
+    "stylelint-scss": "^3.4.1"
   }
 }
