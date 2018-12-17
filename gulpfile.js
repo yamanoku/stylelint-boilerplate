@@ -12,7 +12,6 @@ gulp.task("sass", function() {
     .src("sass/**/*.scss")
     .pipe($.plumber())
     .pipe($.sass({ style: "expanded" }))
-    .pipe($.csscomb())
     .pipe(gulp.dest("dist/css"));
 });
 
