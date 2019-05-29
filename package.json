@@ -19,6 +19,6 @@
     "postcss-reporter": "^6.0.0",
     "postcss-scss": "^2.0.0",
     "stylelint": "^9.10.1",
-    "stylelint-scss": "^3.4.1"
+    "stylelint-scss": "^3.6.1"
   }
 }
