@@ -127,9 +127,9 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@geekcojp/stylelint-config@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@geekcojp/stylelint-config/-/stylelint-config-0.2.0.tgz#fdbf0767739c16b7857465c9f7323c8ef42837c7"
+"@geekcojp/stylelint-config@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@geekcojp/stylelint-config/-/stylelint-config-0.2.3.tgz#e3acad04e826a239a756710b619cbc69a7fa2ab5"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
