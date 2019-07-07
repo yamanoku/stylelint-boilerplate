@@ -5,7 +5,7 @@ const $ = require("gulp-load-plugins")({
 });
 const stylelint = require("stylelint");
 const reporter = require("postcss-reporter");
-const stylelintConfig = require("@geekcojp/stylelint-config");
+const stylelintConfig = require("@yamanoku/stylelint-config");
 
 gulp.task("sass", function() {
   return gulp
