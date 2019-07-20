@@ -210,7 +210,7 @@ amdefine@>=0.0.4:
 
 ansi-colors@^1.0.1:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/ansi-colors/-/ansi-colors-1.1.0.tgz#6374b4dd5d4718ff3ce27a671a3b1cad077132a9"
+  resolved "https://registry.npmjs.org/ansi-colors/-/ansi-colors-1.1.0.tgz#6374b4dd5d4718ff3ce27a671a3b1cad077132a9"
   dependencies:
     ansi-wrap "^0.1.0"
 
@@ -600,7 +600,7 @@ caller-path@^2.0.0:
 
 callsites@^2.0.0:
   version "2.0.0"
-  resolved "http://registry.npmjs.org/callsites/-/callsites-2.0.0.tgz#06eb84f00eea413da86affefacbffb36093b3c50"
+  resolved "https://registry.npmjs.org/callsites/-/callsites-2.0.0.tgz#06eb84f00eea413da86affefacbffb36093b3c50"
 
 camelcase-keys@^2.0.0:
   version "2.1.0"
@@ -863,7 +863,7 @@ currently-unhandled@^0.4.1:
 
 d@1:
   version "1.0.0"
-  resolved "http://registry.npmjs.org/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
+  resolved "https://registry.npmjs.org/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
   dependencies:
     es5-ext "^0.10.9"
 
@@ -2509,7 +2509,7 @@ needle@^2.2.1:
 
 next-tick@1:
   version "1.0.0"
-  resolved "http://registry.npmjs.org/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
+  resolved "https://registry.npmjs.org/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
 node-gyp@^3.8.0:
   version "3.8.0"
@@ -3121,7 +3121,7 @@ read-pkg@^3.0.0:
 
 readable-stream@^2.0.0, readable-stream@^2.0.4, readable-stream@^2.0.5, readable-stream@^2.2.2, readable-stream@^2.3.3, readable-stream@^2.3.5, readable-stream@~2.3.6:
   version "2.3.6"
-  resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
+  resolved "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.3"
@@ -3366,7 +3366,7 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.2, safe-buffer@~5.1.0, 
 
 safe-regex@^1.1.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
+  resolved "https://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz#40a3669f3b077d1e943d44629e157dd48023bf2e"
   dependencies:
     ret "~0.1.10"
 
@@ -3632,7 +3632,7 @@ string_decoder@~1.0.3:
 
 string_decoder@~1.1.1:
   version "1.1.1"
-  resolved "http://registry.npmjs.org/string_decoder/-/string_decoder-1.1.1.tgz#9cf1611ba62685d7030ae9e4ba34149c3af03fc8"
+  resolved "https://registry.npmjs.org/string_decoder/-/string_decoder-1.1.1.tgz#9cf1611ba62685d7030ae9e4ba34149c3af03fc8"
   dependencies:
     safe-buffer "~5.1.0"
 
@@ -3691,10 +3691,10 @@ style-search@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/style-search/-/style-search-0.1.0.tgz#7958c793e47e32e07d2b5cafe5c0bf8e12e77902"
 
-stylelint-scss@^3.9.1:
-  version "3.9.1"
-  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.9.1.tgz#c34a41f2587cce85e0769b025377ece44db13724"
-  integrity sha512-Z+q3z12QpkWEJsoWm/QLGvu3VJXpZbZYaEXdU4EIo3o6lVgXIwMj+ntW81Jj2bk9f6+aMVmtzfJVhdS7Sz5orA==
+stylelint-scss@^3.9.2:
+  version "3.9.2"
+  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.9.2.tgz#5435174a57696ee52eae40146778a4e62f7ed3a3"
+  integrity sha512-VUh173p3T1qJf016P7yeJ6nxkUpqF5qQ+VSDw3J8P6wEJbA1loaNgBHR3k3skHvUkF+9brLO1ibCHA00pjW3cw==
   dependencies:
     lodash "^4.17.11"
     postcss-media-query-parser "^0.2.3"
