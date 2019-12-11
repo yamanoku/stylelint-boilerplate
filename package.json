@@ -15,7 +15,7 @@
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "gulp-stylelint": "^10.0.0",
+    "gulp-stylelint": "^11.0.0",
     "postcss-reporter": "^6.0.1",
     "postcss-scss": "^2.0.0",
     "stylelint": "^11.1.1",
